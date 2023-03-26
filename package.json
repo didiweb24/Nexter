@@ -1,0 +1,25 @@
+{
+  "name": "nexter",
+  "version": "1.0.0",
+  "description": "a fictional website about Css grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didiweb24/Nexter.git"
+  },
+  "keywords": [
+    "23132313"
+  ],
+  "author": "dilan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didiweb24/Nexter/issues"
+  },
+  "homepage": "https://github.com/didiweb24/Nexter#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
