@@ -141,10 +141,6 @@ body {
   font-style: italic;
   margin-bottom: 4rem; }
 
-.homes {
-  background-color: #c69963;
-  grid-column: center-start / center-end; }
-
 .gallery {
   background-color: #54483A;
   grid-column: full-start / full-end; }
